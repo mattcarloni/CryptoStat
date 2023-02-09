@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'CryptoStat'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B42E4AE8E7CE455498B525CAEF0F84D4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3CA877EE9EAC4747A1839630DBD2748B }}
